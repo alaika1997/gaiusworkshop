@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5,
       font-size: 3rem; } }
   .site-section-heading h2:after {
     content: "";
-    left: 0%;
+    left: 50%;
     bottom: 0;
     position: absolute;
     width: 100px;
